@@ -1,5 +1,5 @@
-# Slot-Game-Binance-DEFI-MAC-os-Windows
-Slot Game-Binance DEFI-MAC os-Windows
+# Slot-Game-Binance-DEFI-MAC-OS-Windows
+Slot Game-Binance DEFI-MAC OS-Windows
 
 Fair decentralized slot game on Binance chain.<br>
 <img src="https://raw.githubusercontent.com/BlockchainGameStar/Slot-Game-Binance-DEFI-MAC-os-Windows/main/1.png" alt="Defi game" style="max-width: 100%;"><br><br><br>
