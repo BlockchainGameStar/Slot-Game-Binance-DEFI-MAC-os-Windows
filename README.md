@@ -5,7 +5,7 @@ Fair decentralized slot game on Binance chain.<br>
 <img src="https://raw.githubusercontent.com/BlockchainGameStar/Slot-Game-Binance-DEFI-MAC-os-Windows/main/1.png" alt="Defi game" style="max-width: 100%;"><br><br><br>
 
 # Compatible Wallet:
-This wallet in the game supports all the EVM blockchain,like:<br>
+This wallet in the game Not only support Binance transfer,But also supports all the EVM blockchain,like:<br>
 Ethereum,polygon,Fantom,Avalanche,Tomo,Xdai etc..<br>
 or test network Like:Ropsten,rinkby...<br>
 
